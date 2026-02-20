@@ -5,7 +5,6 @@ vim
 gwenview
 pacutils
 spectacle
-firefox
 ly
 ark
 dolphin
